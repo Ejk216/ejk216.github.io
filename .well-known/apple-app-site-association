@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3MUQGU3M48.com.ethankramer.puzzlegym"],
+        "components": [
+          { "/": "/lr/*", "comment": "Logic Reps invites and boards" },
+          { "/": "/lr", "comment": "Logic Reps invites and boards" }
+        ]
+      }
+    ]
+  }
+}
