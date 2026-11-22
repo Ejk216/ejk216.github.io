@@ -63,6 +63,8 @@
     }
     document.getElementById("open").href = "logicreps://open#" + said;
   })();
+  // A second link opened in the same tab changes only the #: read it again.
+  window.addEventListener("hashchange", function () { location.reload(); });
 </script>
 </body>
 </html>
